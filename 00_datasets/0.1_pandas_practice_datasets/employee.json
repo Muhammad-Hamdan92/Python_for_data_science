@@ -1,0 +1,151 @@
+{
+  "company": "Nexus Media Group",
+  "metadata": {
+    "version": "2.4.1",
+    "generatedAt": "2026-07-17T18:22:00Z",
+    "totalRecords": 3
+  },
+  "employees": [
+    {
+      "id": "EMP-0091",
+      "personal": {
+        "firstName": "Sarah",
+        "lastName": "Chen",
+        "age": 34,
+        "contact": {
+          "email": "s.chen@nexusmedia.com",
+          "phone": "+1-555-019-2834",
+          "address": {
+            "street": "742 Evergreen Terrace",
+            "city": "Springfield",
+            "state": "IL",
+            "zipCode": "62704"
+          }
+        }
+      },
+      "employment": {
+        "role": "Lead Data Scientist",
+        "department": "Analytics",
+        "salary": 135000,
+        "isRemote": true,
+        "startDate": "2021-04-12",
+        "skills": [
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "PyTorch",
+          "Tableau"
+        ]
+      },
+      "projects": [
+        {
+          "projectId": "PRJ-901",
+          "name": "Predictive Churn Model",
+          "status": "Completed",
+          "budget": 45000.0
+        },
+        {
+          "projectId": "PRJ-905",
+          "name": "Automated Content Tagging",
+          "status": "In Progress",
+          "budget": 120000.5
+        }
+      ]
+    },
+    {
+      "id": "EMP-0092",
+      "personal": {
+        "firstName": "Marcus",
+        "lastName": "Rodriguez",
+        "age": 29,
+        "contact": {
+          "email": "m.rodriguez@nexusmedia.com",
+          "phone": "+1-555-014-7721",
+          "address": {
+            "street": "112 Ocean Drive",
+            "city": "Miami",
+            "state": "FL",
+            "zipCode": "33139"
+          }
+        }
+      },
+      "employment": {
+        "role": "Senior DevOps Engineer",
+        "department": "Infrastructure",
+        "salary": 142000,
+        "isRemote": false,
+        "startDate": "2023-09-01",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "CI/CD"
+        ]
+      },
+      "projects": [
+        {
+          "projectId": "PRJ-702",
+          "name": "Cloud Migration Phase 2",
+          "status": "In Progress",
+          "budget": 350000.0
+        }
+      ]
+    },
+    {
+      "id": "EMP-0093",
+      "personal": {
+        "firstName": "Elena",
+        "lastName": "Rostova",
+        "age": 41,
+        "contact": {
+          "email": "e.rostova@nexusmedia.com",
+          "phone": "+1-555-016-9988",
+          "address": {
+            "street": "456 Maple Avenue",
+            "city": "Boston",
+            "state": "MA",
+            "zipCode": "02115"
+          }
+        }
+      },
+      "employment": {
+        "role": "Product Director",
+        "department": "Product Management",
+        "salary": 165000,
+        "isRemote": true,
+        "startDate": "2018-11-15",
+        "skills": [
+          "Agile",
+          "Scrum",
+          "Roadmapping",
+          "UI/UX Strategy"
+        ]
+      },
+      "projects": [
+        {
+          "projectId": "PRJ-501",
+          "name": "Mobile App Redesign",
+          "status": "Planning",
+          "budget": 85000.0
+        }
+      ]
+    }
+  ],
+  "systemSettings": {
+    "allowedRoles": [
+      "Admin",
+      "Manager",
+      "Employee",
+      "Guest"
+    ],
+    "security": {
+      "twoFactorAuth": true,
+      "sessionTimeoutMinutes": 30,
+      "ipWhitelist": [
+        "192.168.1.1",
+        "10.0.0.1"
+      ]
+    }
+  }
+}

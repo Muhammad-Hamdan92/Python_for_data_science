@@ -1,0 +1,71 @@
+Unnamed: 0,bacteria,antibiotic,resistance,region,year,age,gender,prior_infection_site,intensive_care_metrics,cumulative_days_on_antibiotic,days_since_last_hospital_stay
+2,K. pneumoniae,Methicillin,100.0,Europe,2022,15,F,Respiratory,14,0,39
+8,K. pneumoniae,Methicillin,59.11590371713188,Europe,2019,75,M,,6,6,91
+11,K. pneumoniae,Methicillin,91.9594227917925,Africa,2021,24,M,Urinary,23,3,365
+133,K. pneumoniae,Methicillin,70.72328105164823,Asia,2019,37,M,,10,2,365
+188,K. pneumoniae,Methicillin,43.00570190964148,South America,2018,77,F,Blood,4,21,178
+190,K. pneumoniae,Methicillin,33.40239370987102,Africa,2019,70,M,Urinary,9,5,365
+198,K. pneumoniae,Methicillin,19.2790581141587,Asia,2020,24,F,Urinary,1,1,365
+245,K. pneumoniae,Methicillin,100.0,Asia,2019,3,M,Respiratory,15,9,71
+335,K. pneumoniae,Methicillin,75.85299544465788,Europe,2021,69,M,,7,3,54
+346,K. pneumoniae,Methicillin,69.62740438051591,Africa,2021,30,M,,2,3,141
+366,K. pneumoniae,Methicillin,48.92139764801152,North America,2021,54,F,Respiratory,17,6,365
+379,K. pneumoniae,Methicillin,39.65936992096253,Europe,2023,17,F,Urinary,2,1,110
+429,K. pneumoniae,Methicillin,49.57095325488012,Africa,2021,60,M,Blood,7,10,36
+478,K. pneumoniae,Methicillin,66.72691550893634,Asia,2018,69,F,,3,5,170
+547,K. pneumoniae,Methicillin,78.51464012505951,Asia,2018,58,M,Blood,13,1,365
+649,K. pneumoniae,Methicillin,43.70059109840125,Asia,2022,74,M,Urinary,25,7,53
+672,K. pneumoniae,Methicillin,33.58477125389991,Asia,2021,38,F,Respiratory,6,2,69
+727,K. pneumoniae,Methicillin,38.446309354262624,South America,2020,77,F,,22,6,148
+782,K. pneumoniae,Methicillin,83.92001929271477,Africa,2023,77,M,,11,3,104
+783,K. pneumoniae,Methicillin,51.68080418265821,Africa,2021,4,F,,5,5,365
+892,K. pneumoniae,Methicillin,52.31929462983932,South America,2022,56,F,Urinary,8,1,72
+920,K. pneumoniae,Methicillin,28.731123194888013,North America,2022,23,F,Respiratory,3,6,13
+946,K. pneumoniae,Methicillin,17.99380057290263,Asia,2019,40,F,,5,0,116
+956,K. pneumoniae,Methicillin,91.20188171532357,Asia,2021,59,F,Blood,1,13,365
+984,K. pneumoniae,Methicillin,47.64608391003856,Africa,2021,75,M,Urinary,11,9,29
+1012,K. pneumoniae,Methicillin,71.98209667918564,South America,2020,64,F,,20,0,58
+1073,K. pneumoniae,Methicillin,41.849074875145504,Europe,2023,62,F,Respiratory,16,1,105
+1178,K. pneumoniae,Methicillin,57.763962433488445,Africa,2018,41,M,Respiratory,18,7,365
+1189,K. pneumoniae,Methicillin,62.00508801188377,South America,2020,57,F,Respiratory,3,4,136
+1228,K. pneumoniae,Methicillin,53.65278584510848,Africa,2020,88,F,Respiratory,23,1,131
+1239,K. pneumoniae,Methicillin,43.74618446655103,South America,2022,81,F,Respiratory,33,0,95
+1255,K. pneumoniae,Methicillin,21.31010134753327,North America,2020,83,F,,7,7,365
+1325,K. pneumoniae,Methicillin,52.72052746133567,Europe,2019,74,F,Urinary,14,4,365
+1330,K. pneumoniae,Methicillin,100.0,North America,2021,19,F,,13,0,87
+1382,K. pneumoniae,Methicillin,98.59305294674296,Europe,2020,38,M,Blood,32,0,121
+1454,K. pneumoniae,Methicillin,82.26654211233134,Asia,2018,94,F,Blood,10,3,159
+1458,K. pneumoniae,Methicillin,15.393108336623976,South America,2019,59,F,Respiratory,3,5,365
+1472,K. pneumoniae,Methicillin,38.75533956979103,Asia,2018,95,F,Respiratory,13,10,43
+1489,K. pneumoniae,Methicillin,46.57738755088269,Europe,2022,10,F,,2,1,365
+1540,K. pneumoniae,Methicillin,41.71657701831752,North America,2023,34,M,Urinary,20,2,62
+1576,K. pneumoniae,Methicillin,100.0,Europe,2021,73,F,Urinary,12,10,169
+1726,K. pneumoniae,Methicillin,86.24470136174526,Asia,2023,88,F,Urinary,8,3,365
+1755,K. pneumoniae,Methicillin,70.83160653951353,Africa,2022,50,M,Blood,7,6,33
+1816,K. pneumoniae,Methicillin,23.136598736755715,Asia,2021,64,F,,1,10,365
+1842,K. pneumoniae,Methicillin,56.50529654199926,North America,2019,24,M,Blood,10,5,365
+1916,K. pneumoniae,Methicillin,29.662859560082246,Africa,2023,75,M,,3,8,80
+1961,K. pneumoniae,Methicillin,49.46768678036028,Africa,2022,55,F,,10,4,365
+1963,K. pneumoniae,Methicillin,100.0,Europe,2018,51,F,,15,0,72
+1964,K. pneumoniae,Methicillin,81.5354741555857,Europe,2018,44,M,Urinary,8,6,365
+1985,K. pneumoniae,Methicillin,74.72164904154731,North America,2023,94,M,,22,3,365
+2006,K. pneumoniae,Methicillin,55.45532372084482,North America,2021,6,M,Respiratory,30,7,63
+2015,K. pneumoniae,Methicillin,38.97705992365476,North America,2018,15,F,,0,1,107
+2122,K. pneumoniae,Methicillin,21.295445249229168,Africa,2023,8,M,,5,4,11
+2224,K. pneumoniae,Methicillin,94.13585001619052,North America,2018,48,M,,15,2,94
+2262,K. pneumoniae,Methicillin,78.4086977036066,South America,2023,18,M,,23,9,154
+2387,K. pneumoniae,Methicillin,46.337939712900805,Europe,2020,67,M,,4,9,365
+2597,K. pneumoniae,Methicillin,61.46630058804568,Europe,2023,5,F,Respiratory,47,1,114
+2724,K. pneumoniae,Methicillin,93.17690588131715,Europe,2021,17,M,Blood,9,9,365
+2856,K. pneumoniae,Methicillin,92.18830583860348,Africa,2023,55,M,Blood,5,9,28
+2898,K. pneumoniae,Methicillin,100.0,Asia,2021,70,M,,18,1,84
+2950,K. pneumoniae,Methicillin,92.94034626161783,Europe,2020,85,F,,13,2,177
+2967,K. pneumoniae,Methicillin,100.0,Europe,2022,77,M,Urinary,21,5,134
+3076,K. pneumoniae,Methicillin,10.047654620985458,North America,2021,63,M,,6,0,365
+3126,K. pneumoniae,Methicillin,12.286189459697455,Asia,2021,48,M,,6,8,365
+3222,K. pneumoniae,Methicillin,64.33875121114735,Europe,2019,58,M,,11,10,81
+3268,K. pneumoniae,Methicillin,82.94316954346763,Africa,2019,73,F,,2,4,7
+3314,K. pneumoniae,Methicillin,45.13675680331188,Asia,2019,64,M,,25,0,365
+3329,K. pneumoniae,Methicillin,100.0,Africa,2021,81,F,,11,9,96
+3371,K. pneumoniae,Methicillin,70.36798759284291,North America,2018,72,M,Blood,1,1,108
+3459,K. pneumoniae,Methicillin,63.74347211023178,Asia,2022,18,M,Urinary,13,5,140
