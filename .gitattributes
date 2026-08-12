@@ -1,0 +1,25 @@
+# Ignore generated HTML or markdown reports
+*.html linguist-documentation=true
+*.md linguist-documentation=true
+
+# Force GitHub to detect R and Python files properly
+*.Rmd linguist-detectable=false
+*.Rmd linguist-language=R
+*.ipynb linguist-language=Python
+
+# Override vendor paths if you have knitted folders
+docs/* linguist-vendored
+site_libs/* linguist-vendored
+
+
+# Python for Data Science
+
+#This repository contains notebooks, scripts, exercises, 
+#and datasets covering Python for data science, including 
+#data analysis, visualization, statistics, and practical 
+#examples.
+
+#It is intended to document learning and reproducible work 
+#across Python, pandas, NumPy, Matplotlib, and related 
+#data-science tools.
+
